@@ -3,3 +3,4 @@ flask-cors
 pickle5
 spacy
 gunicorn 
+sklearn
